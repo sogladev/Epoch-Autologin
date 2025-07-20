@@ -302,7 +302,7 @@
 									</Anchor>
 								</Anchors>
 							</Button>
-							<Button name="AutologinRemoveAccountButton" inherits="GlueButtonSmallTemplate" text="Remove account">
+							<Button name="AutologinRemoveAccountButton" inherits="GlueButtonSmallTemplateBlue" text="Remove account">
 								<Anchors>
 									<Anchor point="BOTTOM" relativeTo="AutologinAccountsFrame" relativePoint="BOTTOM">
 										<Offset>
@@ -316,7 +316,7 @@
 									</OnClick>
 								</Scripts>
 							</Button>
-							<Button name="AutologinClearCharacterButton" inherits="GlueButtonSmallTemplate" text="Clear character">
+							<Button name="AutologinClearCharacterButton" inherits="GlueButtonSmallTemplateBlue" text="Clear character">
 								<Anchors>
 									<Anchor point="BOTTOM" relativeTo="AutologinRemoveAccountButton" relativePoint="TOP">
 										<Offset>
