@@ -8,6 +8,7 @@ local EPOCH_CLASS_COLORS = {
     ["Shaman"]  = { r = 0.00, g = 0.44, b = 0.87, colorStr = "ff0070DD" },
     ["Warlock"] = { r = 0.53, g = 0.53, b = 0.93, colorStr = "ff8788EE" },
     ["Warrior"] = { r = 0.78, g = 0.61, b = 0.43, colorStr = "ffC69B6D" },
+	["Death Knight"] = { r = 0.77, g = 0.12, b = 0.23, colorStr = "ffC41E3A" },
 }
 
 function GetSortedCharacterIndices()
