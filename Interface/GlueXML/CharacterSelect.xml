@@ -181,9 +181,9 @@
                     </Layer>
                 </Layers>
                 <Frames>
-                    <Button name="CharSelectEnterWorldButton" inherits="GlueButtonTemplateLarge" text="ENTER_WORLD">
+                    <Button name="CharSelectEnterWorldButton" inherits="GlueButtonTemplate" text="ENTER_WORLD">
                         <Size>
-                            <AbsDimension x="220" y="110"/>
+                            <AbsDimension x="220" y="60"/>
                         </Size>
                         <Anchors>
                             <Anchor point="BOTTOM">
